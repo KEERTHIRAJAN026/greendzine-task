@@ -2,37 +2,83 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.container{
+margin-left: 427px;
+width: 360px;
+height: 800px;
+background: transparent linear-gradient(180deg, #000000 0%, #000E09 100%) 0% 0% no-repeat padding-box;
+mix-blend-mode: normal;
+border-radius: 28px;
+opacity: 1;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+img{
+  margin-top: 150px;
+width: 90px;
+height: 90px;
+background: transparent 0% 0% no-repeat padding-box;
+mix-blend-mode: normal;
+opacity: 1;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.text{
+  text-align: center;
+font: normal normal normal 16px/21px Mulish;
+letter-spacing: 0.02px;
+color: #36A546CC;
+opacity: 1;
+margin-top: 20px;
+margin-left: 108px;
+width: 146px;
+height: 20px;
+}
+input{
+  
+  width: 208px;
+  height: 42px;
+  background: #1F191966 0% 0% no-repeat padding-box;
+  box-shadow: inset 0px 4px 4px #86858540, 3px 3px 3px #35353547;
+  padding: 2px 20px;
+  border-radius: 28px;
+  border: none;
+  opacity: 1;
+  color: rgb(161, 158, 158);
+}
+.input1{
+  margin-top: 49px;
+  position: relative;
+}
+.input2{
+  margin-top: 25px;
+}
+.submit{
+  color: rgb(161, 158, 158);
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  font-weight: 500;
+  margin-top: 47px;
+  margin-left: 61px;
+  width: 238px;
+  height: 42px;
+  background: transparent linear-gradient(180deg, #00FF2580 0%, #000000 100%, #36A54680 100%) 0% 0% no-repeat padding-box;
+  mix-blend-mode: normal;
+  border: none;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-items: center;
+  border-radius: 28px;
+  border: 2px solid #8CFF0026;
+  opacity: 1;
 }
-
-.App-link {
-  color: #61dafb;
+.submit:hover{
+  cursor: pointer;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.forgot-password{
+  margin-top: 26px;
+  margin-left: 116px;
+  width: 143px;
+  height: 19px;
+  text-align: center;
+  font: normal normal normal 15px/20px Mulish;
+  letter-spacing: 0.02px;
+  color: #36A546;
+  opacity: 1;
 }
