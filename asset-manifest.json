@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/greendzine-task/static/css/main.de18e765.css",
+    "main.js": "/greendzine-task/static/js/main.63cbf3a5.js",
+    "static/js/787.7f7dca02.chunk.js": "/greendzine-task/static/js/787.7f7dca02.chunk.js",
+    "static/media/group.png": "/greendzine-task/static/media/group.aef595482ee3b5bfac89.png",
+    "static/media/group3.png": "/greendzine-task/static/media/group3.56c4ec6e83a3f99fa1a1.png",
+    "index.html": "/greendzine-task/index.html",
+    "main.de18e765.css.map": "/greendzine-task/static/css/main.de18e765.css.map",
+    "main.63cbf3a5.js.map": "/greendzine-task/static/js/main.63cbf3a5.js.map",
+    "787.7f7dca02.chunk.js.map": "/greendzine-task/static/js/787.7f7dca02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de18e765.css",
+    "static/js/main.63cbf3a5.js"
+  ]
+}
